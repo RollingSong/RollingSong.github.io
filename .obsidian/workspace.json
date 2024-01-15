@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot2DbyCS/GDScript与CS的通用区别.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot2DbyCS/GDScript与CS的通用区别.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot2DbyCS/GDScript与CS的通用区别.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot2DbyCS/GDScript与CS的通用区别.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "0ae24c372fade913",
   "lastOpenFiles": [
-    "Godot2DbyCS/README.md",
+    "README0.md",
+    "README.md",
     "Godot2DbyCS/GDScript与CS的通用区别.md",
+    "Godot2DbyCS/README.md",
     "test_long/README.md",
     "test/README.md",
     "test/markdown.md",
