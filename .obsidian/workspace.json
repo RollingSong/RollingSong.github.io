@@ -148,18 +148,19 @@
   },
   "active": "0ae24c372fade913",
   "lastOpenFiles": [
-    "test/avatar.md",
-    "Godot2DbyCS/GDScript与CS的通用区别.md",
     "Godot2DbyCS/README.md",
+    "Godot2DbyCS/GDScript与CS的通用区别.md",
+    "test_long/README.md",
     "test/README.md",
     "test/markdown.md",
+    "test/avatar.md",
+    "test/gist.md",
     "Godot2DbyCS/新建 文本文档.txt",
     "Godot2DbyCS/新建文件夹",
     "Godot2DbyCS",
     "新建文件夹",
     "test/mentions.md",
     "test/mermaid.md",
-    "test/gist.md",
     "assets/css/fonts/fontawesome-webfont.svg"
   ]
 }

@@ -1,7 +1,9 @@
 ---
 sort: 1
 ---
-# 命名方式
+# GDScript与CS的通用区别
+
+## 命名方式
 
 GDScript的代码风格与Python相同，使用缩进来判断代码块，语言风格为 snake_case.
 而C#通常使用PascalCase。
