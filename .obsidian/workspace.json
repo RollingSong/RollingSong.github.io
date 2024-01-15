@@ -146,12 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ae24c372fade913",
+  "active": "c760f6f37b4f80b4",
   "lastOpenFiles": [
-    "README0.md",
-    "README.md",
-    "Godot2DbyCS/GDScript与CS的通用区别.md",
     "Godot2DbyCS/README.md",
+    "Godot2DbyCS/GDScript与CS的通用区别.md",
+    "_includes/README.md",
+    "assets/css/fonts/fontawesome-webfont.svg",
+    "README.md",
+    "README0.md",
     "test_long/README.md",
     "test/README.md",
     "test/markdown.md",
@@ -162,7 +164,6 @@
     "Godot2DbyCS",
     "新建文件夹",
     "test/mentions.md",
-    "test/mermaid.md",
-    "assets/css/fonts/fontawesome-webfont.svg"
+    "test/mermaid.md"
   ]
 }
