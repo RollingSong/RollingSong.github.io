@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot2DbyCS/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "21ebba59c7c22ab4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7fe0f4b9f896e0c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/README.md",
+                "file": "Godot2DbyCS/GDScript与CS的通用区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot2DbyCS/README.md",
+                "file": "Godot2DbyCS/GDScript与CS的通用区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot2DbyCS/README.md",
+                "file": "Godot2DbyCS/GDScript与CS的通用区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot2DbyCS/README.md"
+                "file": "Godot2DbyCS/GDScript与CS的通用区别.md"
               }
             }
           }
@@ -166,8 +148,10 @@
   },
   "active": "0ae24c372fade913",
   "lastOpenFiles": [
-    "test/README.md",
+    "test/avatar.md",
+    "Godot2DbyCS/GDScript与CS的通用区别.md",
     "Godot2DbyCS/README.md",
+    "test/README.md",
     "test/markdown.md",
     "Godot2DbyCS/新建 文本文档.txt",
     "Godot2DbyCS/新建文件夹",
@@ -175,7 +159,6 @@
     "新建文件夹",
     "test/mentions.md",
     "test/mermaid.md",
-    "test/avatar.md",
     "test/gist.md",
     "assets/css/fonts/fontawesome-webfont.svg"
   ]
