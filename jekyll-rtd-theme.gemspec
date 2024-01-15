@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = " 大师傅士大夫"
+  spec.name          = "jekyll-rtd-theme"
   spec.version       = "2.0.10"
   spec.authors       = ["saowang"]
   spec.email         = ["saowang@outlook.com"]
