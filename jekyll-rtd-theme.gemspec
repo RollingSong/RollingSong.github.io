@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["RollingSong"]
   spec.email         = ["xxx@gmail.com"]
 
-  spec.summary       = "Just another documentation theme compatible with GitHub Pages"
+  spec.summary       = "Just another documentation theme compatible with GitHub Pages 123123"
   spec.license       = "MIT"
   spec.homepage      = "https://github.com/RollingSong/RollingSong.github.io"
 
