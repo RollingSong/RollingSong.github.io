@@ -1,7 +1,7 @@
 ---
 sort: 0
 ---
-
+# 解释每一个Node
 这一部分将对Godot中每一个Node进行解释，主要是其常用API和适用情况。
 
 使用Godot 4.1.1 stable版本。
