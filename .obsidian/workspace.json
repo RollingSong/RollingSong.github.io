@@ -13,9 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/mermaid.md",
+                "file": "NodeExplain/README.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "356c4b33c0af2e35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c77074ef8f4be87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeExplain/Node2D.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/mermaid.md",
+                "file": "NodeExplain/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/mermaid.md",
+                "file": "NodeExplain/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/mermaid.md"
+                "file": "NodeExplain/README.md"
               }
             }
           }
@@ -148,6 +166,12 @@
   },
   "active": "0ae24c372fade913",
   "lastOpenFiles": [
+    "NodeExplain/Node2D.md",
+    "NodeExplain/README.md",
+    "Godot2DbyCS/README.md",
+    "Godot2DbyCS/GDScript与CS的通用区别.md",
+    "NodeExplain",
+    "test/mermaid.md",
     "test/mentions.md",
     "test/mathjax.md",
     "test/markdown.md",
@@ -157,8 +181,6 @@
     "test/codes.md",
     "test/avatar.md",
     "README.md",
-    "Godot2DbyCS/README.md",
-    "Godot2DbyCS/GDScript与CS的通用区别.md",
     "_includes/README.md",
     "assets/css/fonts/fontawesome-webfont.svg",
     "README0.md",
@@ -167,7 +189,6 @@
     "Godot2DbyCS/新建 文本文档.txt",
     "Godot2DbyCS/新建文件夹",
     "Godot2DbyCS",
-    "新建文件夹",
-    "test/mermaid.md"
+    "新建文件夹"
   ]
 }
